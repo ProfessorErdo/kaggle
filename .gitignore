@@ -1,0 +1,4 @@
+.DS_Store
+.jupyter/
+notebooks/.ipynb_checkpoints/
+notebooks/catboost_info/
